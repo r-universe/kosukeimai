@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "experiment"]
+	path = experiment
+	url = https://github.com/kosukeimai/experiment
+	shallow = true
+	registered = true
+[submodule "fastLink"]
+	path = fastLink
+	url = https://github.com/kosukeimai/fastlink
+	shallow = true
+	registered = true
+[submodule "MatchIt"]
+	path = MatchIt
+	url = https://github.com/kosukeimai/matchit
+	shallow = true
+	registered = true
+[submodule "MNP"]
+	path = MNP
+	url = https://github.com/kosukeimai/mnp
+	shallow = true
+	registered = true
+[submodule "wru"]
+	path = wru
+	url = https://github.com/kosukeimai/wru
+	shallow = true
+	registered = true
