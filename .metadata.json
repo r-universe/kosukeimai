@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "MatchIt",
-    "oncran": true
-  },
-  {
     "package": "MNP",
     "oncran": true
   },
