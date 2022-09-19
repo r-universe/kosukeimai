@@ -13,6 +13,11 @@
 	url = https://github.com/kosukeimai/fastlink
 	shallow = true
 	registered = true
+[submodule "MatchIt"]
+	path = MatchIt
+	url = https://github.com/kosukeimai/matchit
+	shallow = true
+	registered = true
 [submodule "MNP"]
 	path = MNP
 	url = https://github.com/kosukeimai/mnp
