@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "RCT2",
+    "oncran": true
+  },
+  {
     "package": "wru",
     "oncran": true
   }

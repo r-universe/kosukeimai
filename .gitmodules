@@ -23,6 +23,11 @@
 	url = https://github.com/kosukeimai/mnp
 	shallow = true
 	registered = true
+[submodule "RCT2"]
+	path = RCT2
+	url = https://github.com/kosukeimai/rct2
+	shallow = true
+	registered = true
 [submodule "wru"]
 	path = wru
 	url = https://github.com/kosukeimai/wru
