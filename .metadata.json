@@ -1,5 +1,9 @@
 [
   {
+    "package": "eco",
+    "oncran": true
+  },
+  {
     "package": "experiment",
     "oncran": true
   },
