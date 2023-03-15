@@ -1,17 +1,5 @@
 [
   {
-    "package": "wru",
-    "oncran": true
-  },
-  {
-    "package": "RCT2",
-    "oncran": true
-  },
-  {
-    "package": "MNP",
-    "oncran": true
-  },
-  {
     "package": "experiment",
     "oncran": true
   },
@@ -21,6 +9,18 @@
   },
   {
     "package": "MatchIt",
+    "oncran": true
+  },
+  {
+    "package": "MNP",
+    "oncran": true
+  },
+  {
+    "package": "RCT2",
+    "oncran": true
+  },
+  {
+    "package": "wru",
     "oncran": true
   }
 ]
