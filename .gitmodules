@@ -11,6 +11,9 @@
 [submodule "RCT2"]
 	path = RCT2
 	url = https://github.com/kosukeimai/rct2
+[submodule "emIRT"]
+	path = emIRT
+	url = https://github.com/kosukeimai/emirt
 [submodule "experiment"]
 	path = experiment
 	url = https://github.com/kosukeimai/experiment
